@@ -11,5 +11,6 @@ classifies it based on its quality. The classification is done using “Pattern 
 which involves Classification Algorithms of Machine Learning. E-Nose is considered to be a
 potential way to balance the trade-off between cost and accuracy.
 
+Note: This project has been successfully implemented and recognized by the panel members. The code for this project is not outsourced by us due to various reasons, but you would find the entire system design and workflow here.
 
 ![image](https://github.com/VenkataViswanath/E-Nose-Project/assets/42315213/5dbf0435-94bf-4213-b553-b2fc3770d238)
